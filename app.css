@@ -1,0 +1,35 @@
+h1 {
+            color: greenyellow;
+        }
+
+        h3 {
+            color:chocolate;
+        }
+
+        #p1 {
+            text-align: justify;
+            text-indent: 20px;
+            color: blueviolet;
+        }
+
+        .p1 {
+            text-align: justify;
+            text-indent: 20pt;
+            color:aquamarine;
+        }
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
